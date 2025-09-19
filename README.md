@@ -1,2 +1,2 @@
 # Database-Management
-This project is about data analysis.
+This project is about database management.
