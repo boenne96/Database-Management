@@ -1,3 +1,2 @@
 # Database-Management
-This is my first repository.
-I am looking forward to learning more.
+This project is about data analysis.
