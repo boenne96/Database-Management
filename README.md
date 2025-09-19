@@ -1,3 +1,3 @@
 # Database-Management
-This is my first repository.
+This is my first repositry.
 I am looking forward to learning more.
