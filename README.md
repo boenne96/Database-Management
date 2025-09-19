@@ -1,2 +1,2 @@
 # Database-Management
-This project is about database management.
+This project is about relational databases.
